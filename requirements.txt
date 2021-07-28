@@ -1,1 +1,1 @@
-git+git://github.com/FZJ-INM1-BDA/siibra-python@3f66ac4
+git+git://github.com/FZJ-INM1-BDA/siibra-python@3f66ac4b4c660813c9c6ac443ff5d8ddfbe65f68
