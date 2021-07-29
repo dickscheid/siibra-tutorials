@@ -3,6 +3,7 @@ Some tutorial notebooks for programmatic use of [EBRAINS human brain atlas](http
 
 Tutorial | About | Link
 :---: | --- | ---
-1 | Basic Concepts | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=01-BasicConcepts.ipynb)
-2 | Probabilistic assignment | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=02-LocationAssignment.ipynb)
-3 | Differential Gene Expression Analysis | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=02-LocationAssignment.ipynb)
+1 | Basic Concepts of reference spaces, brain parcellations, maps and regions | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=01-BasicConcepts.ipynb)
+2 | Retrieving multimodal data features for brain regions | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=02-DataFeatures.ipynb)
+3 | Probabilistic assignment of regions to coordinates | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=03-ProbabilisticAssignment.ipynb)
+4 | Differential Gene Expression Analysis | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=04-DifferentialGeneExpressions.ipynb)
