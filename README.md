@@ -9,3 +9,4 @@ Tutorial | About | Link
 2 | Retrieving multimodal data features for brain regions | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=02-DataFeatures.ipynb)
 3 | Probabilistic assignment of regions to coordinates | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=03-ProbabilisticAssignment.ipynb)
 4 | Differential Gene Expression Analysis | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=04-DifferentialGeneExpressions.ipynb)
+5 | Compare brain regions to another parcelaltions | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=05-CompareBrainRegionsWithCustomParcellation.ipynb)
