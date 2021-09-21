@@ -10,3 +10,4 @@ Tutorial | About | Link
 3 | Probabilistic assignment of regions to coordinates | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=03-ProbabilisticAssignment.ipynb)
 4 | Differential Gene Expression Analysis | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=04-DifferentialGeneExpressions.ipynb)
 5 | Compare brain regions to another parcelaltions | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=05-CompareBrainRegionsWithCustomParcellation.ipynb)
+6 | Working with BigBrain | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dickscheid/siibra-tutorials/HEAD?filepath=BigBrainWorkshop2021.ipynb)
